@@ -1,0 +1,7 @@
+para executar o servidor basta rodar ele com ./servidor
+para rodar o cliente , entre com o comando do cliente 1 primeiro ./cliente localhost 5000
+depois entre com o comando para o cliente2, ./cliente2 localhost 5000
+
+para compilar gcc servidor.c -o servidor
+			  gcc cliente.c -o cliente
+			  gcc cliente2.c -o cliente2
